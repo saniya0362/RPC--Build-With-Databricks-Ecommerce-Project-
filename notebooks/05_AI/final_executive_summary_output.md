@@ -1,5 +1,6 @@
 executive_ai_summary
-"## 1) Overall business health summary
+
+## 1) Overall business health summary
 - **Scale and topline look solid:** 98,511 orders generated **~$13.53M** in revenue, indicating strong transaction volume and a meaningful revenue base.
 - **Unit economics are stable:** **AOV ~$137.55** with **112,650 items** sold implies ~**1.14 items/order**, suggesting most baskets are single-item or low multi-item—good for simplicity, but leaves room to grow basket size.
 - **Service quality is mixed:** A **~7.95% late delivery rate** is a material operational risk at this order volume. Customer satisfaction signals are moderate (**~58.7% positive reviews**, average sentiment **3.67/5**), implying customers are not unhappy overall but not consistently delighted either.
@@ -36,4 +37,5 @@ executive_ai_summary
 3. **Increase items per order via bundling and cart incentives**
    - Introduce “complete the set” bundles, add-on recommendations at cart, and threshold offers (e.g., free shipping/bonus item above a spend level).
    - Test merchandising that targets the largest-volume SKUs first.
+
    - Outcome: lift **items/order** and revenue per customer without needing proportional order growth.
