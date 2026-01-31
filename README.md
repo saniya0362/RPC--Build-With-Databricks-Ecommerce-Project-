@@ -40,7 +40,7 @@ Machine Learning and Generative AI layers built on top:
 
 (Unity Catalog is used for governance across all layers.)
 
-![Architecture](assets/architecture.png)
+![Architecture](architecture.png)
 
 ---
 
