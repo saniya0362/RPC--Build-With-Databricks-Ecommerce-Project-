@@ -153,7 +153,7 @@ without relying on traditional dashboards.
 
 ## Presentation
 
-You can view the presentation [here](https://youtu.be/).
+You can view the presentation [here](https://youtu.be/e_4CgOhv7Ns).
 
 ---
 
